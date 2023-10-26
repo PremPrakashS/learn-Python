@@ -1,0 +1,67 @@
+# packages in environment at C:\Users\prem2\.conda\envs\xML:
+#
+# Name                    Version                   Build  Channel
+boltons                   23.0.0             pyhd8ed1ab_0    conda-forge
+brotlipy                  0.7.0           py39ha55989b_1005    conda-forge
+bzip2                     1.0.8                h8ffe710_4    conda-forge
+ca-certificates           2022.12.7            h5b45459_0    conda-forge
+certifi                   2022.12.7          pyhd8ed1ab_0    conda-forge
+cffi                      1.15.1           py39h68f70e3_3    conda-forge
+charset-normalizer        3.1.0              pyhd8ed1ab_0    conda-forge
+colorama                  0.4.6              pyhd8ed1ab_0    conda-forge
+conda                     23.3.1           py39hcbf5309_0    conda-forge
+conda-package-handling    2.0.2              pyh38be061_0    conda-forge
+conda-package-streaming   0.7.0              pyhd8ed1ab_1    conda-forge
+cryptography              40.0.2           py39hb6bd5e6_0    conda-forge
+fmt                       9.1.0                h181d51b_0    conda-forge
+idna                      3.4                pyhd8ed1ab_0    conda-forge
+jsonpatch                 1.32               pyhd8ed1ab_0    conda-forge
+jsonpointer               2.0                        py_0    conda-forge
+krb5                      1.20.1               heb0366b_0    conda-forge
+libarchive                3.6.2                h27c7867_0    conda-forge
+libcurl                   8.0.1                h68f0423_0    conda-forge
+libffi                    3.4.2                h8ffe710_5    conda-forge
+libiconv                  1.17                 h8ffe710_0    conda-forge
+libmamba                  1.4.2                h8a7d157_0    conda-forge
+libmambapy                1.4.2            py39h608c70e_0    conda-forge
+libsolv                   0.7.23               h12be248_0    conda-forge
+libsqlite                 3.40.0               hcfcfb64_1    conda-forge
+libssh2                   1.10.0               h9a1e1f7_3    conda-forge
+libxml2                   2.10.4               hc3477c8_0    conda-forge
+libzlib                   1.2.13               hcfcfb64_4    conda-forge
+lz4-c                     1.9.4                hcfcfb64_0    conda-forge
+lzo                       2.10              he774522_1000    conda-forge
+mamba                     1.4.2            py39hca8391b_0    conda-forge
+menuinst                  1.4.19           py39hcbf5309_1    conda-forge
+openssl                   3.1.0                hcfcfb64_2    conda-forge
+packaging                 23.1               pyhd8ed1ab_0    conda-forge
+pip                       23.0.1           py39haa95532_0  
+pluggy                    1.0.0              pyhd8ed1ab_5    conda-forge
+pybind11-abi              4                    hd8ed1ab_3    conda-forge
+pycosat                   0.6.4            py39ha55989b_1    conda-forge
+pycparser                 2.21               pyhd8ed1ab_0    conda-forge
+pyopenssl                 23.1.1             pyhd8ed1ab_0    conda-forge
+pysocks                   1.7.1              pyh0701188_6    conda-forge
+python                    3.9.16          h4de0772_0_cpython    conda-forge
+python_abi                3.9                      3_cp39    conda-forge
+reproc                    14.2.4               hcfcfb64_0    conda-forge
+reproc-cpp                14.2.4               h63175ca_0    conda-forge
+requests                  2.29.0             pyhd8ed1ab_0    conda-forge
+ruamel.yaml               0.17.21          py39ha55989b_3    conda-forge
+ruamel.yaml.clib          0.2.7            py39ha55989b_1    conda-forge
+setuptools                66.0.0           py39haa95532_0  
+sqlite                    3.41.2               h2bbff1b_0  
+tk                        8.6.12               h8ffe710_0    conda-forge
+toolz                     0.12.0             pyhd8ed1ab_0    conda-forge
+tqdm                      4.65.0             pyhd8ed1ab_1    conda-forge
+tzdata                    2023c                h04d1e81_0  
+ucrt                      10.0.22621.0         h57928b3_0    conda-forge
+urllib3                   1.26.15            pyhd8ed1ab_0    conda-forge
+vc                        14.2                 h21ff451_1  
+vs2015_runtime            14.34.31931         h4c5c07a_11    conda-forge
+wheel                     0.38.4           py39haa95532_0  
+win_inet_pton             1.1.0              pyhd8ed1ab_6    conda-forge
+xz                        5.2.6                h8d14728_0    conda-forge
+yaml-cpp                  0.7.0                h63175ca_2    conda-forge
+zstandard                 0.19.0           py39h95af829_1    conda-forge
+zstd                      1.5.2                h12be248_6    conda-forge

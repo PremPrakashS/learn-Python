@@ -1,0 +1,63 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2006-570B
+
+ Directory of C:\Users\prem2\Documents\Python
+
+30-04-2023  14:08    <DIR>          .
+30-04-2023  14:08    <DIR>          ..
+23-04-2023  18:39    <DIR>          .ipynb_checkpoints
+20-01-2023  20:33             2,129 Break and Continue.ipynb
+09-12-2022  22:27               492 Calculator.py
+27-04-2023  00:56               630 cmd_history.txt
+20-01-2023  17:42             2,019 Comments.ipynb
+30-04-2023  14:08                 0 content_of_python.txt
+26-01-2023  01:19             3,039 Custom errors.ipynb
+18-02-2023  18:23    <DIR>          data
+23-01-2023  21:07             5,076 Dictonary in Python.ipynb
+24-01-2023  13:43             6,672 Dictonary Methods.ipynb
+23-01-2023  01:06             4,303 DocStrings & PEP-8.ipynb
+26-01-2023  02:12             3,549 Enumerate.ipynb
+24-01-2023  14:21             4,910 Exceptional Handling in Python.ipynb
+22-01-2023  23:52             2,728 Exercise 2.ipynb
+29-01-2023  17:01             3,630 Exercise 3 - Pending.ipynb
+04-03-2023  23:56             3,395 Exercise 4 Secret Code Language.ipynb
+23-01-2023  00:25             3,949 f-strings.ipynb
+24-01-2023  14:39             2,546 Finally Keyword.ipynb
+18-02-2023  18:00    <DIR>          folder
+26-01-2023  01:01             2,310 for loop with else.ipynb
+20-01-2023  17:58             2,825 For Loops.ipynb
+21-01-2023  03:49             3,914 Function Arguments and return statement.ipynb
+20-01-2023  21:13             2,390 Functions.ipynb
+05-03-2023  00:23             1,740 Global vs Local Variable.ipynb
+25-12-2022  16:28             2,158 If Statement.ipynb
+08-02-2023  00:07             4,829 Import.ipynb
+22-01-2023  23:04             8,281 List Methods.ipynb
+10-01-2023  22:48             3,251 Machine Learning.ipynb
+20-01-2023  17:42             1,065 Match Case.ipynb
+10-01-2023  22:42           191,132 MatplotLib.ipynb
+18-02-2023  17:57               156 mypack.py
+18-02-2023  19:19            13,008 os module.ipynb
+27-04-2023  00:16             4,796 packagesxML.txt
+08-02-2023  00:02                87 prem.py
+20-01-2023  17:39             1,627 Print.ipynb
+21-01-2023  13:24             3,865 Python List & list comphrension.ipynb
+22-01-2023  22:56             4,338 Python Tuples.ipynb
+27-01-2023  23:34    <DIR>          python_venv
+29-01-2023  16:14             2,622 Recursion.ipynb
+22-04-2023  20:21             3,250 requirements.txt
+23-01-2023  20:36            11,486 Set Methods in Python.ipynb
+23-01-2023  19:21             2,697 Sets in Python.ipynb
+26-04-2023  23:00             2,668 Short-hand if else.ipynb
+22-04-2023  20:50             7,380 String Methods.ipynb
+09-12-2022  22:29               126 String.py
+23-04-2023  18:44             1,301 text.txt
+23-04-2023  19:08               132 text1.txt
+22-01-2023  23:31             3,251 Tuple Methods.ipynb
+23-04-2023  19:09            10,332 Untitled.ipynb
+22-04-2023  18:08            10,052 Variables String concatenation type casting user inputs Strings String Slicing.ipynb
+27-01-2023  02:14             3,458 Virtual Environment in Python.ipynb
+22-04-2023  18:14             3,398 While Loops and Range function.ipynb
+18-02-2023  17:57             2,406 __name__== __main__.ipynb
+18-02-2023  17:13    <DIR>          __pycache__
+              49 File(s)        365,398 bytes
+               7 Dir(s)  135,362,011,136 bytes free
